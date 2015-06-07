@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Football_Pitch.jpg</file>
+        <file>c.jpg</file>
+        <file>b.png</file>
+        <file>a.png</file>
+        <file>t.gif</file>
+        <file>0.gif</file>
+        <file>new.jpg</file>
+        <file>dustRacing2DBanner.png</file>
+        <file>grandstandEditor.png</file>
+        <file>plant.png</file>
+        <file>bushArea.png</file>
+        <file>tree.png</file>
+        <file>Chinese_tree.gif</file>
+        <file>qw.png</file>
+        <file>ball.png</file>
+        <file>players/A(2).png</file>
+        <file>players/A(3).png</file>
+        <file>players/A(4).png</file>
+        <file>players/A(5).png</file>
+        <file>players/A(6).png</file>
+        <file>players/A(7).png</file>
+        <file>players/A(8).png</file>
+        <file>players/A(9).png</file>
+        <file>players/A(10).png</file>
+        <file>players/A(11).png</file>
+        <file>players/B(1).png</file>
+        <file>players/B(2).png</file>
+        <file>players/B(3).png</file>
+        <file>players/B(4).png</file>
+        <file>players/B(5).png</file>
+        <file>players/B(6).png</file>
+        <file>players/B(7).png</file>
+        <file>players/B(8).png</file>
+        <file>players/B(9).png</file>
+        <file>players/B(10).png</file>
+        <file>players/B(11).png</file>
+        <file>players/A(1).png</file>
+        <file>TP.png</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>
